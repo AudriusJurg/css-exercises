@@ -1,0 +1,16 @@
+.funclass {
+    background-color: rgb(204, 105, 105);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#uniqueclass {
+    color:rgb(0,0,255);
+    font-size:36px;
+}
+.extrafun {
+    font-size: 24px;
+}
+#otheruniqueclass {
+    background-color: rgb(81, 210, 100);
+    font-size:24px;
+    font-weight: bold;
+}

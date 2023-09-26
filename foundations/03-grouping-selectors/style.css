@@ -1,0 +1,13 @@
+
+.firstone {
+    background-color: black;
+    color:white;
+}
+.secondone {
+    background-color: yellow;
+}
+
+.firstone, .secondone {
+    font-size:28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
